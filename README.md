@@ -26,3 +26,4 @@ Following are features that I'd like to add to the game in the future:
 - [ ] Offensive spells, e.g. lightning (upgradeable with stun and chaining), frost (upgradeable with slowdown and eventual ability freeze, making enemies vulnerable to shatter damage), poison  dealing damage over time
 - [ ] Defensive spells e.g. dodge/teleport, shield
 - [ ] Skill tree - instead of gaining one predefined upgrade each level, players would be able to select one from skill tree following their own preferred build
+- [ ] Enemy resistances to elements, which would need to be countered by specific spells
